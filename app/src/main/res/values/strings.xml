@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MinimoDos</string>
+    <string name="nombreSeguidor">Name</string>
+    <string name="imagenSeguidor">Imagen</string>
+    <string name="ExploreFollowers">Explore Followers</string>
+    <string name="name">Name</string>
+</resources>
